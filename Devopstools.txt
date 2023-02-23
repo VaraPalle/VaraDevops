@@ -1,0 +1,14 @@
+Devops Tools
+1.Linux
+2.Shellscript
+3.git
+4.gitHub
+5.Jenkins
+6.Docker
+7.Ansible
+8.Kubernetes
+9.Terraform
+10.CICD
+11.Sonarcube
+12.Nexus
+13.Aws: Cloud Platform
